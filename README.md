@@ -1,7 +1,7 @@
 # Hello everybody 👋
 
-I'm a Backend Developer working from [Country Flag Emoji] Dominican Republic 🇩🇴.  
-Currently working as a Senior Software Engineer at [Your Company].
+I'm a Backend Developer working from Dominican Republic 🇩🇴.  
+Currently working as a Senior Software Engineer at The Ksquare Group.
 
 - 💻 Ask me about: Node.js, React, APIs, and backend technologies.  
 - 🚀 I'm passionate about optimizing systems and creating high-performance APIs.
