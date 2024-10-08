@@ -6,6 +6,8 @@ Currently working as a Senior Software Engineer at The Ksquare Group.
 - 💻 Ask me about: Node.js, React, APIs, and backend technologies.  
 - 🚀 I'm passionate about optimizing systems and creating high-performance APIs.
 
+> Note: I’ve been more active on Bitbucket recently, which may explain the lower number of GitHub commits.
+
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
