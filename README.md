@@ -1,12 +1,11 @@
 # Hello everybody 👋
 
 I'm a Backend Developer working from Dominican Republic 🇩🇴.  
-Currently working as a Software Engineer at The Ksquare Group.
+Currently working as a Software Engineer at Thryv.
 
 - 💻 Ask me about: Node.js, React, APIs, and backend technologies.  
 - 🚀 I'm passionate about optimizing systems and creating high-performance APIs.
 
-> Note: I’ve been more active on Bitbucket recently, which may explain the lower number of GitHub commits.
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
